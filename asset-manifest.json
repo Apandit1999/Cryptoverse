@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cryptoverse/static/css/main.073c9b0a.css",
+    "main.js": "/cryptoverse/static/js/main.fd28ee6c.js",
+    "static/media/bcd.jpg": "/cryptoverse/static/media/bcd.fdf16b2c0f6e3d0f6553.jpg",
+    "static/media/aman.jpeg": "/cryptoverse/static/media/aman.8521a4be3784d0588184.jpeg",
+    "static/media/logo.svg": "/cryptoverse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cryptoverse/index.html",
+    "main.073c9b0a.css.map": "/cryptoverse/static/css/main.073c9b0a.css.map",
+    "main.fd28ee6c.js.map": "/cryptoverse/static/js/main.fd28ee6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fd28ee6c.js"
+  ]
+}
